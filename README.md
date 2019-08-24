@@ -2,6 +2,7 @@
 <html>
 <head>
 <div align="left"><img src="NSU.png" alt="North South University" align="left" height="200" width="200"></div>
+<br>
 <div align="Center">
 <h1 style="text-align:center;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
 <h1 style="text-align:center;">Summer 2019</h1>
@@ -12,7 +13,7 @@
 <h2><strong>Faculty Member: Dr. M. Arifur Rahman (MAh1)<br>
 Lab Instructor: Asif Ahmed Neloy<br>
 Office Room: TBA<br>
-Email: asif.neloy@northsouth.edu</strong</h2>
+Email: asif.neloy@northsouth.edu</strong></h2>
 <h2>Office Hours: Monday (M) 12:00 pm – 1:30 pm<br>
 Wednesday (W) 12:00 pm - 1:30 pm<br>
 Class Hours: Sunday (S) 2:40 pm - 5:50 pm<br>
