@@ -26,11 +26,11 @@ client-side programming knowledge.
 <table style="width:100%">
   <tr>
     <th>Class Attendance:</th>
-	<th>Lab Assessment:<th>
-	<th>*Project:<th>
-	<th>Quiz (two): <th>
-	<th>Midterm Exam: <th>
-	<th>Final: 30%<th>
+	<th>Lab Assessment:</th>
+	<th>*Project:</th>
+	<th>Quiz (two): </th>
+	<th>Midterm Exam: </th>
+	<th>Final: 30%</th>
     
   </tr>
   <tr>
