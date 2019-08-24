@@ -10,7 +10,6 @@
 </head>
 <body>
 <br>
-<br>
 <h2><strong>Faculty Member: Dr. M. Arifur Rahman (MAh1)<br>
 Lab Instructor: Asif Ahmed Neloy<br>
 Office Room: TBA<br>
