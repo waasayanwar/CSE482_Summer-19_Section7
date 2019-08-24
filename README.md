@@ -2,7 +2,7 @@
 <html>
 <head>
 <div align="left"><img src="NSU.jpg" alt="North South University" align="left" height="100" width="50"></div>
-<div align="right">
+<div align="Center">
 <h1 style="text-align:center;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
 <h1 style="text-align:center;">Summer 2019</h1>
 </div>
