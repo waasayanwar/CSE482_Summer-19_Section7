@@ -30,7 +30,7 @@ client-side programming knowledge.
 	<th>*Project:</th>
 	<th>Quiz (two): </th>
 	<th>Midterm Exam: </th>
-	<th>Final: 30%</th>
+	<th>Final:</th>
     
   </tr>
   <tr>
