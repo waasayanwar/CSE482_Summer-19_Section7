@@ -44,6 +44,73 @@ client-side programming knowledge.
   </tr>  
     
 </table>
+<h3><strong>tentative Class Schedule:</strong></h3>
+<table style="width:100%">
+  
+
+  <tr>
+    <td>Week 1</td>
+    <td>Lab 1</td>
+    <td>Introduction To HTML</td>
+	
+  </tr>  
+  <tr>
+    <td>Week 2</td>
+    <td>Lab 2</td>
+    <td>Introduction to CSS</td>
+	
+  </tr>  
+  <tr>
+    <td>Week 3</td>
+    <td>Lab 3</td>
+    <td>Basic JavaScript + Checkpoint 1</td>
+	
+  </tr>  
+  <tr>
+    <td>Week 4</td>
+    <td>Lab 4</td>
+    <td>JavaScript Details</td>
+	
+  </tr>   
+  <tr>
+    <td><strong>Week 5</strong></td>
+    <td><strong>Lab 5</strong></td>
+    <td><strong>Introduction to PHP + Mid</strong></td>
+	
+  </tr>  
+  <tr>
+    <td>Week 6</td>
+    <td>Lab 6</td>
+    <td>Database Handling + Checkpoint 2</td>
+	
+  </tr> 
+<tr>
+    <td>Week 7</td>
+    <td>Lab 7</td>
+    <td>Basic Ajax and XML</td>
+	
+  </tr>
+<tr>
+    <td>Week 8</td>
+    <td>Lab 8</td>
+    <td>Ajax with Database + Checkpoint 3</td>
+	
+  </tr>
+<tr>
+    <td>Week 9</td>
+    <td>Lab 9</td>
+    <td>Ajax Live Search and Rest Service + Checkpoint 4</td>
+	
+  </tr>
+<tr>
+    <td><strong>Week 10</strong></td>
+    <td><strong>Lab 10</strong></td>
+    <td><strong>Final + Project Demonstration</strong></td>
+	
+  </tr>
+ 
+    
+</table>
 <h3 style="text-align:center;">The marks distribution may change according to the discretion of the instructor.</h3>
 </body>
 </html>
