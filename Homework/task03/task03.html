@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validateForm() {
+  var x = document.forms["myForm"]["fname"].value;
+  if (x == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+
+<form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+  <li>Name: <input type="text" name="fname"></li>
+  <li>NSU Id: <input type="text" name="fid"></li>
+  <li><label id="gender">Sex:</label></li>
+<input type="radio" name="msex" value="Male" /><span>Male</span>
+<input type="radio" name="fsex" value="Female" /><span>Female</span>
+<li>Email: <input type="text" name="fid"></li>
+<li><label for="start">Date:</label></li>
+<input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31">
+	   
+<li>I agree that full assignment is completed by myself</li>Checkbox: <input type="checkbox" id="myCheck" onclick="myFunction()">
+<p id="text" style="display:none"></p>
+</form>
+<input type="submit" value="Submit">
+</body>
+</html>
