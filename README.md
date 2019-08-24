@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1 style="text-align:center;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
+<h1 style="text-align:center;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
 <h1 style="text-align=center;">Summer 2019</h1>
 </head>
 <body>
+
 <h2><strong>Faculty Member: Dr. M. Arifur Rahman (MAh1)<br>
 Lab Instructor: Asif Ahmed Neloy<br>
 Office Room: TBA<br>
@@ -34,29 +35,13 @@ client-side programming knowledge.
   </tr>
   <tr>
     <td>10%</td>
-    
-    
-  </tr>
-  <tr>
     <td>10%</td>
-    
-    
-  </tr>
-  <tr>
     <td>20%</td>
-    
-    
-  </tr>
-  <tr>
-    <td>10%</td>
-    
-    
-  </tr><tr>
-    <td>20%</td>
-    
-    
-  </tr><tr>
-    <td>30%</td>
+	<td>10%</td>
+	<td>20%</td>
+	<td>30%</td>
+	
+  </tr>  
     
 </table>
 <h3 style="text-align:center;">The marks distribution may change according to the discretion of the instructor.</h3>
