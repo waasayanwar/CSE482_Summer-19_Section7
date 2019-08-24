@@ -4,12 +4,13 @@
 <div align="left"><img src="NSU.png" alt="North South University" align="left" height="200" width="200"></div>
 <br>
 <div align="Center">
-<h1 style="text-align:center;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
-<h1 style="text-align:center;">Summer 2019</h1>
+<h1 style="text-align:left;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
+<h1 style="text-align:left;">Summer 2019</h1>
 </div>
 </head>
 <body>
-
+<br>
+<br>
 <h2><strong>Faculty Member: Dr. M. Arifur Rahman (MAh1)<br>
 Lab Instructor: Asif Ahmed Neloy<br>
 Office Room: TBA<br>
