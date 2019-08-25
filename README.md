@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<div align="left"><img src="images/NSU.png" alt="North South University" align="left" height="200" width="200"></div>
+<div align="left"><img src="NSU.png" alt="North South University" align="left" height="200" width="200"></div>
 <br>
 <div align="left">
 <h1 style="text-align:left;">WAASAY ANWAR-CSE482L: Summer-19_Section7</h1>
